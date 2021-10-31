@@ -14,7 +14,7 @@ const About = () => {
       <Container>
         <Zoom>
           <h2 className="text-center text-white mb-4">
-            WELCOME TO CODING CLUB INSTITUTE
+            WELCOME TO Tourism Website
           </h2>
         </Zoom>
         <Row>
@@ -22,21 +22,24 @@ const About = () => {
             <Bounce bottom>
               <h5 className="text-white">About Us</h5>
               <p className="text-muted">
-                There are countless online education marketplaces on the
-                internet. And there’s us. We are not the biggest. We are not the
-                cheapest. But we are the fastest growing. We have the highest
-                course completion rate in the industry.
+              "We are an employee-owned company with a passion for providing exemplary customer service, leveraging our expertise and technology to deliver innovative travel solutions in a gratifying work environment."
               </p>
               <p className="text-muted">
-                And the reason is, we don’t give up. When a student commits to a
-                course, we commit to the student. We are not going to sugar coat
-                it - we will make you complete, come what may. You may not have
-                given much thought to what you are signing up for, but we
-                believe you are signing up for knowledge that is useful and
-                complete. We are ridiculously committed to our students. Be it
-                constant reminders, relentless masters or 24 x 7 online support
-                - we will absolutely make sure that you run out of excuses to
-                not complete the course.
+              TravelStore is headquartered in Los Angeles, California, with branch locations throughout the state, specializing in corporate travel solutions and custom vacation travel planning.
+
+Our corporate centers are located in 
+Los Angeles
+, 
+Sacramento
+ and 
+Irvine
+. Our leisure vacation travel locations include Los Angeles, Sacramento, Irvine, 
+Palos Verdes/South Bay
+, 
+Pasadena
+ and 
+Santa Barbara/Camarillo
+.
               </p>
             </Bounce>
           </Col>
@@ -44,18 +47,13 @@ const About = () => {
             <Bounce bottom>
               <h5 className="text-white">Our Vision</h5>
               <p className="text-muted">
-                To become the largest online learning ecosystem for continuing
-                education, in partnership with corporates and academia.
+              We specialize in tours to Bangladesh but are always expanding and enhancing our wide range of offers, as well as adding new and exciting tours of Britain, Italy, Eastern Europe, Mexico and the Caribbean.
+
+A family-owned business based in Boston, Tourism was founded in 1985 by Jim & Teresa Kelly and since that humble beginning it has grown into a trusted resource that has helped tens of thousands of people better enjoy their travel.
               </p>
               <h5 className="text-white">Our Mission</h5>
               <p className="text-muted">
-                To create an alternate platform for students who wish to
-                continue and complete courses by attending live online courses,
-                using a team of ridiculously committed educators who will stop
-                at nothing to impart education, helped by a 24 x 7 support
-                system. By deploying our world class team of industry experts,
-                we aim to educate our learners with the skills they need to
-                advance their professional life to the next level.
+              When booking a vacation, it is always better value to book an air-inclusive packages. Many travel agencies are unable to offer this. Crystal Travel & Tours works with most all international airlines and  frequently offers the most competitive fares for travel to Ireland,Britain and Europe.
               </p>
             </Bounce>
           </Col>
@@ -64,7 +62,7 @@ const About = () => {
         <Row className="mt-4">
           <Col md>
             <Bounce bottom>
-              <h5 className="text-white">Sign up for our monthly newsletter</h5>
+              <h5 className="text-white"></h5>
               <p className="text-muted">
                 Be the first to know about news and updates.We never share you
                 mail with others. Trust us!
